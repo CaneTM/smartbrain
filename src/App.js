@@ -11,7 +11,7 @@ import './App.css';
 
 
 const app = new Clarifai.App({
-  apiKey: '7a21cd5cbccd4e2fadf9a24f5c2a0903'
+  
 });
 
 
